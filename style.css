@@ -1,0 +1,14 @@
+body{
+    background: repeating-conic-gradient(#ffffff, #3de5ff35 8%);
+
+}
+#main{
+    background: linear-gradient(#ffffff, #3de5ffd5);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.08);
+}
+.bmi-calculator h1 {
+    font-size: 100px;
+}
+.bmi-calculator p {
+    font-size: 24px;
+}
